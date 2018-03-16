@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CommercialVehicle
+comment1.params=regNo
+comment1.target=CommercialVehicle(java.lang.String)
+comment2.params=type\ highway
+comment2.target=float\ calcTax(java.lang.String,\ java.lang.String)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CartOperations
+comment1.params=
+comment1.target=float\ getInvoiceAmount()
+comment2.params=p
+comment2.target=float\ addToCart(Product)
+comment3.params=p
+comment3.target=void\ removeFromCart(Product)
+numComments=4

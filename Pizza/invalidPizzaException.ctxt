@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=invalidPizzaException
+comment1.params=error
+comment1.target=invalidPizzaException(java.lang.String)
+numComments=2

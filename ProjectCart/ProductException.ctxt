@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ProductException
+comment1.params=Error
+comment1.target=ProductException(java.lang.String)
+numComments=2

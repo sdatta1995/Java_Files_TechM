@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TollData
+comment1.params=v\ type\ highway
+comment1.target=float\ makeEntry(Vehicle,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getTotalPrivateCount()
+comment3.params=
+comment3.target=float\ getTotalPrivateTax()
+comment4.params=
+comment4.target=int\ getTotalCommercialCount()
+comment5.params=
+comment5.target=float\ getTotalCommercialTax()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
